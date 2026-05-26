@@ -1,0 +1,203 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span data-start-index=&quot;329&quot; class=&quot;ng-star-inserted&quot;&gt;Desarrollo Impulsado por Especificaciones (SDD)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="768" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-14" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-15" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" value="&lt;b data-start-index=&quot;672&quot; class=&quot;ng-star-inserted&quot;&gt;Prompt Inicial&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1641" y="-18" as="geometry">
+            <mxPoint x="9" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-17" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="bdWWYP_9J5fQYy2NHUfU-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-18" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;779&quot; class=&quot;ng-star-inserted&quot;&gt;Especificación/Requerimientos&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.175" y="-6" as="geometry">
+            <mxPoint x="-41" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-20" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="bdWWYP_9J5fQYy2NHUfU-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-21" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;873&quot; class=&quot;ng-star-inserted&quot;&gt;Documento de Diseño&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0699" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-23" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-24" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;975&quot; class=&quot;ng-star-inserted&quot;&gt;Implementación&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3435" y="-2" as="geometry">
+            <mxPoint x="24" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FFFF);" value="&lt;span data-start-index=&quot;634&quot; class=&quot;ng-star-inserted&quot;&gt;Proceso del SDD (Workflow)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="127" x="550.5" y="184" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-26" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-29" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1098&quot; class=&quot;ng-star-inserted&quot;&gt;Vibe Coding&amp;nbsp;&lt;br&gt;(Programación por &quot;vibras&quot;)&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.6596" y="14" as="geometry">
+            <mxPoint x="-19" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-32" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1.006;exitY=0.565;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-33" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1326&quot; class=&quot;ng-star-inserted&quot;&gt;SDD&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2257" y="30" as="geometry">
+            <mxPoint x="28" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FF99);" value="&lt;span data-start-index=&quot;1054&quot; class=&quot;ng-star-inserted&quot;&gt;SDD vs. &quot;Vibe Coding&quot; (Comparativa)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="994" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-38" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="bdWWYP_9J5fQYy2NHUfU-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-39" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1494&quot; class=&quot;ng-star-inserted&quot;&gt;Tradicional&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0613" y="-9" as="geometry">
+            <mxPoint x="-7" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-42" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-43" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1549&quot; class=&quot;ng-star-inserted&quot;&gt;TDD (Test-Driven)&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0157" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-45" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-46" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1605&quot; class=&quot;ng-star-inserted&quot;&gt;SDD&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1699" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FFFF66);" value="&lt;span data-start-index=&quot;1447&quot; class=&quot;ng-star-inserted&quot;&gt;Evolución de los Modelos de Desarrollo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="138" x="985" y="433" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-48" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="bdWWYP_9J5fQYy2NHUfU-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-49" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1783&quot; class=&quot;ng-star-inserted&quot;&gt;Requerimiento&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1178" y="-9" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-51" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-50" value="&lt;b data-start-index=&quot;1831&quot; class=&quot;ng-star-inserted&quot;&gt;Detalles Técnicos&lt;/b&gt;">
+          <mxGeometry relative="1" x="-0.1004" y="6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-53" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" target="bdWWYP_9J5fQYy2NHUfU-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-54" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1902&quot; class=&quot;ng-star-inserted&quot;&gt;Casos de Prueba:&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.2277" y="-7" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FF6666);" value="&lt;span data-start-index=&quot;1731&quot; class=&quot;ng-star-inserted&quot;&gt;Ejemplo Práctico (Autenticación de Usuario)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="182" x="523" y="427" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-9" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-5" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="bdWWYP_9J5fQYy2NHUfU-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="636" y="328" as="sourcePoint" />
+            <mxPoint x="686" y="278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-10" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-6" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="bdWWYP_9J5fQYy2NHUfU-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="770" y="232" as="sourcePoint" />
+            <mxPoint x="929" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-11" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-4" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="bdWWYP_9J5fQYy2NHUfU-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="953" y="348" as="sourcePoint" />
+            <mxPoint x="1112" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-12" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-4" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" target="bdWWYP_9J5fQYy2NHUfU-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="426" as="sourcePoint" />
+            <mxPoint x="916" y="521" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FFFF);" value="&lt;span data-start-index=&quot;687&quot; class=&quot;ng-star-inserted&quot;&gt;Centrado en el &lt;/span&gt;&lt;b data-start-index=&quot;703&quot; class=&quot;ng-star-inserted&quot;&gt;comportamiento y restricciones&lt;/b&gt;&lt;span data-start-index=&quot;733&quot; class=&quot;ng-star-inserted&quot;&gt; del sistema, no en la implementación directa&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="83" width="185" x="559" y="-62" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FFFF);" value="&lt;span data-start-index=&quot;809&quot; class=&quot;ng-star-inserted&quot;&gt;Funciona como un &lt;/span&gt;&lt;b data-start-index=&quot;827&quot; class=&quot;ng-star-inserted&quot;&gt;contrato&lt;/b&gt;&lt;span data-start-index=&quot;835&quot; class=&quot;ng-star-inserted&quot;&gt; que define la jerarquía del proyecto&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;872&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="145" x="327" y="-44" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FFFF);" value="&lt;span data-start-index=&quot;893&quot; class=&quot;ng-star-inserted&quot;&gt;Traduce la especificación en una lista de tareas (to-dos) para la implementación&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;974&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="81" width="140" x="224" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FFFF);" value="&lt;span data-start-index=&quot;990&quot; class=&quot;ng-star-inserted&quot;&gt;El agente de IA escribe el código basado en el diseño aprobado&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1053&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="143.5" x="266" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FF99);" value="&lt;span data-start-index=&quot;1138&quot; class=&quot;ng-star-inserted&quot;&gt;Basado en prompts iterativos y correcciones sobre la marcha&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1197&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="909" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FF99);" value="&lt;span data-start-index=&quot;1207&quot; class=&quot;ng-star-inserted&quot;&gt;Omite el Ciclo de Vida de Desarrollo de Software (SDLC) y genera resultados inconsistentes o &quot;adivinanzas&quot; del modelo&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1325&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="105" width="178" x="1084" y="-89" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-28" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="bdWWYP_9J5fQYy2NHUfU-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="984" y="79" as="sourcePoint" />
+            <mxPoint x="1066" y="64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-30" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="Problema" vertex="1">
+          <mxGeometry relative="1" x="0.7095" y="10" as="geometry">
+            <mxPoint x="-10" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-35" edge="1" parent="1" source="bdWWYP_9J5fQYy2NHUfU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bdWWYP_9J5fQYy2NHUfU-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-36" connectable="0" parent="bdWWYP_9J5fQYy2NHUfU-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;b data-start-index=&quot;1394&quot; class=&quot;ng-star-inserted&quot;&gt;Ventaja&lt;/b&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1609" y="17" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FF99);" value="&lt;span data-start-index=&quot;1330&quot; class=&quot;ng-star-inserted&quot;&gt;Incorpora componentes del SDLC (Planificación, Diseño, Pruebas)&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1393&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="1211" y="91" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#99FF99);" value="&lt;span data-start-index=&quot;1402&quot; class=&quot;ng-star-inserted&quot;&gt;Reduce la ambigüedad para los agentes de IA&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1446&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="1384" y="223" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FFFF66);" value="&lt;span data-start-index=&quot;1506&quot; class=&quot;ng-star-inserted&quot;&gt;Primero el código, luego la documentación&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1548&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="137" x="1291" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FFFF66);" value="&lt;span data-start-index=&quot;1567&quot; class=&quot;ng-star-inserted&quot;&gt;Primero las pruebas, luego el código&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1604&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="138" x="1277" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FFFF66);" value="&lt;span data-start-index=&quot;1609&quot; class=&quot;ng-star-inserted&quot;&gt;Especificaciones → Diseño → Código. Es descrito como &quot;TDD y Desarrollo Impulsado por Comportamiento (BDD) en esteroides&quot;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1730&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="93" width="228" x="961" y="599" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FF6666);" value="&lt;span data-start-index=&quot;1797&quot; class=&quot;ng-star-inserted&quot;&gt;Feature de &quot;User Authentication&quot;&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1830&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="182" x="231" y="357" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FF6666);" value="&lt;li class=&quot;paragraph list-item normal ng-star-inserted&quot; data-start-index=&quot;1831&quot;&gt;&lt;span data-start-index=&quot;1849&quot; class=&quot;ng-star-inserted&quot;&gt;Endpoint &lt;/span&gt;&lt;code class=&quot;code ng-star-inserted&quot; data-start-index=&quot;1859&quot;&gt;/login&lt;/code&gt;&lt;span data-start-index=&quot;1865&quot; class=&quot;ng-star-inserted&quot;&gt;, método &lt;/span&gt;&lt;code class=&quot;code ng-star-inserted&quot; data-start-index=&quot;1874&quot;&gt;POST&lt;/code&gt;&lt;span data-start-index=&quot;1878&quot; class=&quot;ng-star-inserted&quot;&gt;, variables &lt;/span&gt;&lt;code class=&quot;code ng-star-inserted&quot; data-start-index=&quot;1890&quot;&gt;user&lt;/code&gt;&lt;span data-start-index=&quot;1894&quot; class=&quot;ng-star-inserted&quot;&gt; y &lt;/span&gt;&lt;code class=&quot;code ng-star-inserted&quot; data-start-index=&quot;1897&quot;&gt;pass&lt;/code&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;1901&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="60" width="182" x="257" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="bdWWYP_9J5fQYy2NHUfU-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=light-dark(#000000,#FF6666);" value="&lt;span data-start-index=&quot;1918&quot; class=&quot;ng-star-inserted&quot;&gt;Definición de códigos de error y éxitos (ej. código 200 para credenciales válidas) antes de programar&lt;/span&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;span data-start-index=&quot;2020&quot; class=&quot;ng-star-inserted&quot;&gt;.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="237" x="446" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
